@@ -190,3 +190,9 @@
 #### Week 36
 - Assignment 9: DQN
 - Self Study: PyTorch
+
+#### Week 37
+- Paper
+    - [TD3 (Continuous Control)](https://arxiv.org/abs/1802.09477)
+    - [IMPALA (Distributed RL)](https://arxiv.org/abs/1802.01561)
+    - [Never Give Up (Exploration)](https://arxiv.org/abs/2002.06038)
