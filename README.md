@@ -196,3 +196,10 @@
     - [TD3 (Continuous Control)](https://arxiv.org/abs/1802.09477)
     - [IMPALA (Distributed RL)](https://arxiv.org/abs/1802.01561)
     - [Never Give Up (Exploration)](https://arxiv.org/abs/2002.06038)
+
+#### Week 38
+- Paper
+    - [D4PG](https://arxiv.org/abs/1804.08617)
+    - [DQfD](https://arxiv.org/abs/1704.03732)
+    - [SAC](https://arxiv.org/abs/1801.01290)
+    - [Bootstrapped DQN](https://arxiv.org/abs/1602.04621)
