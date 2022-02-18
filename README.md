@@ -203,3 +203,9 @@
     - [DQfD](https://arxiv.org/abs/1704.03732)
     - [SAC](https://arxiv.org/abs/1801.01290)
     - [Bootstrapped DQN](https://arxiv.org/abs/1602.04621)
+
+#### Week 39
+- Paper
+    - [SVG(model based)](https://arxiv.org/abs/1510.09142)
+    - [BCQ(offline RL)](https://arxiv.org/abs/1812.02900)
+    - [Agent57](https://arxiv.org/abs/2003.13350)
