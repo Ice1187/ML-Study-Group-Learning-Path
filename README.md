@@ -209,3 +209,6 @@
     - [SVG(model based)](https://arxiv.org/abs/1510.09142)
     - [BCQ(offline RL)](https://arxiv.org/abs/1812.02900)
     - [Agent57](https://arxiv.org/abs/2003.13350)
+
+#### Week 40
+- Assignment 10: DDPG, PPO
