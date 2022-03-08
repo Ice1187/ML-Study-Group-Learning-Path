@@ -212,3 +212,10 @@
     - [SVG(model based)](https://arxiv.org/abs/1510.09142)
     - [BCQ(offline RL)](https://arxiv.org/abs/1812.02900)
     - [Agent57](https://arxiv.org/abs/2003.13350)
+
+#### Week 41
+- Paper
+    - [Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning (AWR)](https://arxiv.org/abs/1910.00177)
+    - [Maximum a Posteriori Policy Optimisation (MPO)](https://arxiv.org/abs/1806.06920)
+    - [Phasic Policy Gradient (PPG)](https://arxiv.org/abs/2009.04416)
+    - [Diversity is All You Need: Learning Skills without a Reward Function (DIAYN)](https://arxiv.org/abs/1802.06070)
