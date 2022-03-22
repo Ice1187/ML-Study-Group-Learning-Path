@@ -219,3 +219,9 @@
     - [Maximum a Posteriori Policy Optimisation (MPO)](https://arxiv.org/abs/1806.06920)
     - [Phasic Policy Gradient (PPG)](https://arxiv.org/abs/2009.04416)
     - [Diversity is All You Need: Learning Skills without a Reward Function (DIAYN)](https://arxiv.org/abs/1802.06070)
+
+#### Week 42
+- Paper
+    - [Generative Adversarial Imitation Learning (Gail)](https://arxiv.org/abs/1606.03476)
+    - [Distributional Reinforcement Learning with Quantile Regression (QRDQN)](https://arxiv.org/abs/1710.10044)
+    - [Dream to Control: Learning Behaviors by Latent Imagination (Dreamer)](https://arxiv.org/abs/1912.01603)
