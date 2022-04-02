@@ -225,3 +225,9 @@
     - [Generative Adversarial Imitation Learning (Gail)](https://arxiv.org/abs/1606.03476)
     - [Distributional Reinforcement Learning with Quantile Regression (QRDQN)](https://arxiv.org/abs/1710.10044)
     - [Dream to Control: Learning Behaviors by Latent Imagination (Dreamer)](https://arxiv.org/abs/1912.01603)
+
+#### Week 43
+- Intro. of Lab Environment
+
+#### Week 44
+- Intro. of Mobius: RL Self-driving Car Training Platform
