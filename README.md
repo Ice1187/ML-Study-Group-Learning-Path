@@ -228,6 +228,19 @@
 
 #### Week 43
 - Intro. of Lab Environment
+- Future Projects Introduction
 
 #### Week 44
-- Intro. of Mobius: RL Self-driving Car Training Platform
+- Intro. of Unity Environments
+- Mobius: RL Self-driving Car Training Platform
+
+#### Week 45
+- Assignment 11: SAC
+- SGM
+
+#### Week 46
+- S2F2: Forecasting and Tracking
+
+#### Week 47
+- ROS
+
